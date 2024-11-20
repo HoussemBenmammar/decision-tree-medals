@@ -91,8 +91,6 @@ L'arbre montre des séparations claires et facilement interprétables, avec des 
 
 - Ajuster des paramètres comme :
   - La **profondeur maximale** (`max_depth`) de l'arbre.
-  - Le **nombre minimum d'échantillons** nécessaires pour une division (`min_samples_split`).
-- Cela pourrait permettre d'améliorer la précision tout en évitant le surapprentissage.
 
 ### Enrichissement des données :
 
@@ -129,7 +127,7 @@ L'arbre montre des séparations claires et facilement interprétables, avec des 
 1. **Cloner le projet :**
 
    ```bash
-   git clone https://github.com/votre_utilisateur/decision-tree-medals.git
+   git clone https://github.com/HoussemBenmammar/decision-tree-medals.git
    cd decision-tree-medals
    ```
 
